@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/Blood-River/static/js/main.03a484be.chunk.js",
-    "main.js.map": "/Blood-River/static/js/main.03a484be.chunk.js.map",
-    "runtime-main.js": "/Blood-River/static/js/runtime-main.f6a580dd.js",
-    "runtime-main.js.map": "/Blood-River/static/js/runtime-main.f6a580dd.js.map",
-    "static/css/2.de424728.chunk.css": "/Blood-River/static/css/2.de424728.chunk.css",
-    "static/js/2.582aae6e.chunk.js": "/Blood-River/static/js/2.582aae6e.chunk.js",
-    "static/js/2.582aae6e.chunk.js.map": "/Blood-River/static/js/2.582aae6e.chunk.js.map",
-    "index.html": "/Blood-River/index.html",
-    "precache-manifest.06d31f981ac41885162792ea77b17aa6.js": "/Blood-River/precache-manifest.06d31f981ac41885162792ea77b17aa6.js",
-    "service-worker.js": "/Blood-River/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/Blood-River/static/css/2.de424728.chunk.css.map",
-    "static/js/2.582aae6e.chunk.js.LICENSE.txt": "/Blood-River/static/js/2.582aae6e.chunk.js.LICENSE.txt",
-    "static/media/pwn.png": "/Blood-River/static/media/pwn.fb98525f.png"
+    "main.js": "/static/js/main.03a484be.chunk.js",
+    "main.js.map": "/static/js/main.03a484be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.52d0ff7a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.52d0ff7a.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.582aae6e.chunk.js": "/static/js/2.582aae6e.chunk.js",
+    "static/js/2.582aae6e.chunk.js.map": "/static/js/2.582aae6e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ac0800877df00bb7d6c4d7d3fca5427d.js": "/precache-manifest.ac0800877df00bb7d6c4d7d3fca5427d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/js/2.582aae6e.chunk.js.LICENSE.txt": "/static/js/2.582aae6e.chunk.js.LICENSE.txt",
+    "static/media/pwn.png": "/static/media/pwn.fb98525f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6a580dd.js",
+    "static/js/runtime-main.52d0ff7a.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.582aae6e.chunk.js",
     "static/js/main.03a484be.chunk.js"
