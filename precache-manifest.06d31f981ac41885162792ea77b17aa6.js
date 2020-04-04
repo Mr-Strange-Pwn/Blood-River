@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aea6c10ed0c927728a5e72b101376cdb",
+    "revision": "c0f8bd747d1a95b099b4266976dd1222",
     "url": "/Blood-River/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Blood-River/static/js/2.582aae6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80ea5b63b8a777149cf9",
-    "url": "/Blood-River/static/js/main.d923e7ea.chunk.js"
+    "revision": "77b91a90128d17d102a0",
+    "url": "/Blood-River/static/js/main.03a484be.chunk.js"
   },
   {
     "revision": "2658dbbb3b1148e03702",

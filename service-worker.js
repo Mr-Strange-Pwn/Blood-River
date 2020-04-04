@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Blood-River/precache-manifest.b947baac48ea44b37bfb257d094bb3e9.js"
+  "/Blood-River/precache-manifest.06d31f981ac41885162792ea77b17aa6.js"
 );
 
 self.addEventListener('message', (event) => {
